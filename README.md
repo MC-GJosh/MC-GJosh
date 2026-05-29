@@ -43,7 +43,7 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
 
 ---
 
-## 📊 GitHub Statistics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MC-GJosh&show_icons=true&theme=tokyonight&hide_border=true" alt="Josh's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-GJosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </p> ### 🔥 Contribution Streak <p align="center"> <img src="https://streak-stats.demolab.com?user=MC-GJosh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /> </p> ### 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MC-GJosh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" /> </p>
+## 📊 GitHub Statistics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MC-GJosh&show_icons=true&theme=tokyonight&hide_border=true" alt="Josh's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-GJosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=MC-GJosh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /> </p> ### 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MC-GJosh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" /> </p>
 
 ## 📫 Connect With Me
 
