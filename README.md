@@ -53,6 +53,7 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
   <img src="https://streak-stats.demolab.com?user=MC-GJosh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Contribution Streak" />
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-GJosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages" /> </p>
 ---
 
 ## 📫 Connect With Me
@@ -62,8 +63,4 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
 - **Portfolio:** [castillogj-portfolio.vercel.app](https://castillogj-portfolio.vercel.app/)
 
 ---
-
-<p align="center">
-  Building practical software and AI-powered solutions for real-world needs.
-</p>
 
