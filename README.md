@@ -53,9 +53,9 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
   <img src="https://streak-stats.demolab.com?user=MC-GJosh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Contribution Streak" />
 </p>
 
+---
+
 ## 📫 Connect With Me
 
 - **Email:** [joshcastillo0231@gmail.com](mailto:joshcastillo0231@gmail.com)
 - **Portfolio:** [castillogj-portfolio.vercel.app](https://castillogj-portfolio.vercel.app/)
-
----
