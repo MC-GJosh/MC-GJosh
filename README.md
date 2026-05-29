@@ -8,13 +8,6 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Champion — Cotabato ICT Summit Pitching Competition**
-- 🏆 **Champion — USM CEIT Annual CyberQuest CTF Competition 2024**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
