@@ -1,9 +1,8 @@
-```md
 # Hi, I'm Dice3000 👋
 
 ### AI & Software Developer |  Computer Science Graduate
 
-I am a Computer Science graduate focused on building practical web applications and AI-powered systems. I enjoy developing solutions that address real-world needs through modern web technologies, databases, and artificial intelligence.
+I am an Computer Science graduate focused on building practical web applications and AI-powered systems. I enjoy developing solutions that address real-world needs through modern web technologies, databases, and artificial intelligence.
 
 During my internship at **InfoSoft Davao**, I gained hands-on experience working with **Vue.js, Nuxt.js, PostgreSQL, Laravel, and software quality assurance testing**. I am continuously improving my skills in full-stack development, AI integration, and software testing while building projects that strengthen my experience as a developer.
 
@@ -11,7 +10,7 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
 
 ## 🏆 Achievements
 
-- 🥇 **Champion— Cotabato ICT Summit Pitching Competition**
+- 🥇 **Champion — Cotabato ICT Summit Pitching Competition**
 - 🏆 **Champion — USM CEIT Annual CyberQuest CTF Competition 2024**
 
 ---
