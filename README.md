@@ -1,91 +1,73 @@
-# Hi, I'm Dice3000👋
+```md
+# Hi, I'm Dice3000 👋
 
-### AI & Software Developer | Computer Science Graduate
+### AI & Software Developer |  Computer Science Graduate
 
-During my internship at **InfoSoft Davao**, I gained hands-on experience working with **Vue/Nuxt, PostgreSQL, Laravel, and software quality assurance testing**.
+I am a Computer Science graduate focused on building practical web applications and AI-powered systems. I enjoy developing solutions that address real-world needs through modern web technologies, databases, and artificial intelligence.
+
+During my internship at **InfoSoft Davao**, I gained hands-on experience working with **Vue.js, Nuxt.js, PostgreSQL, Laravel, and software quality assurance testing**. I am continuously improving my skills in full-stack development, AI integration, and software testing while building projects that strengthen my experience as a developer.
 
 ---
 
+## 🏆 Achievements
 
+- 🥇 **Champion— Cotabato ICT Summit Pitching Competition**
+- 🏆 **Champion — USM CEIT Annual CyberQuest CTF Competition 2024**
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Tech Stack
 
-### Frontend Development
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+### Frontend
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Database and Deployment
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Database & Backend Services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Meta Llama 3](https://img.shields.io/badge/Meta-Llama_3-0467DF?style=flat-square)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT-LoRA-7B61FF?style=flat-square)
+![TRL / SFTTrainer](https://img.shields.io/badge/TRL-SFTTrainer-orange?style=flat-square)
+![LLM Fine--Tuning](https://img.shields.io/badge/LLM-Fine--Tuning-blue?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-green?style=flat-square)
+
+### Deployment & Tools
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### AI and Machine Learning
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat-square)
-![Llama 3](https://img.shields.io/badge/Meta-Llama_3-0467DF?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PEFT](https://img.shields.io/badge/PEFT-LoRA-purple?style=flat-square)
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-University of Southern Mindanao  
-Expected Graduation: **June 2026**
-
----
-
-## 💼 Experience
-
-### On-the-Job Training — InfoSoft Davao
-Gained practical development and testing experience involving:
-
-- Vue.js and Nuxt.js frontend development
-- PostgreSQL database usage
-- Laravel application development
-- Software Quality Assurance testing
-- Testing and evaluating application functionality
-
----
-
-## 🏆 Achievement
-
-- **DICT OpenGov Hackathon 2025 Champion**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshcastillo0231&show_icons=true&theme=tokyonight" alt="Josh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshcastillo0231&show_icons=true&theme=tokyonight&hide_border=true" alt="Josh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshcastillo0231&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshcastillo0231&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- **Email:** joshcastillo0231@gmail.com
+- **Email:** [joshcastillo0231@gmail.com](mailto:joshcastillo0231@gmail.com)
 - **GitHub:** [@joshcastillo0231](https://github.com/joshcastillo0231)
-- **Portfolio:** Add your portfolio link here
+- **Portfolio:** [castillogj-portfolio.vercel.app](https://castillogj-portfolio.vercel.app/)
 - **LinkedIn:** Add your LinkedIn link here
 
 ---
@@ -93,3 +75,4 @@ Gained practical development and testing experience involving:
 <p align="center">
   Building practical software and AI-powered solutions for real-world needs.
 </p>
+```
