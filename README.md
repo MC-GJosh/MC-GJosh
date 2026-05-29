@@ -1,69 +1,12 @@
-# Hi, I'm Josh Castillo 👋
+# Hi, I'm Dice3000👋
 
 ### AI & Software Developer | Computer Science Graduate
 
-I build practical web applications and AI-powered systems designed to solve real-world problems. My development experience includes frontend and backend technologies such as **Vue.js, Nuxt.js, Python, FastAPI, PHP, Laravel, PostgreSQL, and MySQL**.
-
 During my internship at **InfoSoft Davao**, I gained hands-on experience working with **Vue/Nuxt, PostgreSQL, Laravel, and software quality assurance testing**.
 
-My main interest is developing useful software for businesses, students, and Filipino users, especially systems involving **AI, NLP, automation, inventory management, and data tracking**.
-
 ---
 
-## 🚀 Featured Projects
 
-### 🤖 Kasangga — Tagalog-English AI Chatbot
-An emotionally supportive and non-judgmental AI chatbot designed for Filipino users who communicate in English, Tagalog, and Taglish.
-
-**Technologies Used:**
-- Meta Llama 3 8B Instruct
-- PEFT / LoRA Fine-Tuning
-- Python and FastAPI
-- Nuxt.js and Tailwind CSS
-- Rule-Based Safety Filter
-
-**Key Features:**
-- Tagalog-English and Taglish conversational support
-- Emotionally supportive AI-generated responses
-- Safety filtering before AI response generation
-- Fine-tuned NLP model using a synthetic Taglish dataset
-
----
-
-### 🏪 Jaypee Motor Parts — POS and Inventory System
-A web-based point-of-sale and inventory management system designed for a multi-branch motor parts business.
-
-**Technologies Used:**
-- Vue.js / Nuxt.js
-- Python / Flask
-- MySQL
-- Tailwind CSS
-- Railway Deployment
-
-**Key Features:**
-- Retail and wholesale sales transactions
-- Inventory stock-in and stock-out monitoring
-- Low-stock alerts
-- Printable receipts
-- Revenue, expenses, profit, and margin tracking
-- Multi-branch inventory management
-
----
-
-### 🏊 Swimmer Performance Tracking and Prediction System
-A system concept for coaches to log swimmer performance records, visualize progress, and predict future race times.
-
-**Technologies Used:**
-- Nuxt.js
-- FastAPI
-- Supabase
-- Python Machine Learning
-
-**Key Features:**
-- Swimmer time logging
-- Event-based performance tracking
-- Progress charts
-- Time prediction based on training history
 
 ---
 
