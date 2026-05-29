@@ -45,20 +45,15 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
 
 ## 📊 GitHub Statistics
 
-### 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MC-GJosh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
-
-### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MC-GJosh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Contribution Streak" />
 </p>
 
 ---
-
 
 ## 📫 Connect With Me
 
