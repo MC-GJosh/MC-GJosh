@@ -6,8 +6,6 @@ I am an Computer Science graduate focused on building practical web applications
 
 During my internship at **InfoSoft Davao**, I gained hands-on experience working with **Vue.js, Nuxt.js, PostgreSQL, Laravel, and software quality assurance testing**. I am continuously improving my skills in full-stack development, AI integration, and software testing while building projects that strengthen my experience as a developer.
 
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
