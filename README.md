@@ -53,7 +53,6 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
 - **Email:** [joshcastillo0231@gmail.com](mailto:joshcastillo0231@gmail.com)
 - **GitHub:** [@joshcastillo0231](https://github.com/joshcastillo0231)
 - **Portfolio:** [castillogj-portfolio.vercel.app](https://castillogj-portfolio.vercel.app/)
-- **LinkedIn:** Add your LinkedIn link here
 
 ---
 
