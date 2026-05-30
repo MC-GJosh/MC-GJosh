@@ -1,4 +1,4 @@
-# Hi, I'm Dice3000 👋
+# Hi, I'm Dice3000!👋
 
 ### AI & Software Developer |  Computer Science Graduate
 
