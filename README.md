@@ -1,6 +1,6 @@
 # Hi, I'm Dice3000!👋
 
-### AI & Software Developer |  Computer Science Graduate
+### AI & Web Developer |  Computer Science Graduate
 
 I am an Computer Science graduate focused on building practical web applications and AI-powered systems. I enjoy developing solutions that address real-world needs through modern web technologies, databases, and artificial intelligence.
 
