@@ -21,35 +21,18 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
 
 ---
 
-## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nuxtjs,vue,tailwind,laravel,fastapi,flask,postgres,mysql,supabase,python,railway,vercel,docker,github,git&theme=dark" />
+</p>
 
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=nuxtjs,vue,tailwind&theme=dark)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-
-**Backend**
-
-![Skills](https://skillicons.dev/icons?i=laravel,fastapi,flask&theme=dark)
-
-**Database & Backend Services**
-
-![Skills](https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark)
-
-**AI / Machine Learning**
-
-![Skills](https://skillicons.dev/icons?i=python&theme=dark)
-![Meta Llama 3](https://img.shields.io/badge/Meta_Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![PEFT/LoRA](https://img.shields.io/badge/PEFT%2FLoRA-8A2BE2?style=for-the-badge)
-![TRL/SFTTrainer](https://img.shields.io/badge/TRL%2FSFTTrainer-FF6F00?style=for-the-badge)
-![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-2C3E50?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-
-**Deployment & Tools**
-
-![Skills](https://skillicons.dev/icons?i=railway,vercel,docker,github,git&theme=dark)
+<p align="center">
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta_Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/PEFT%2FLoRA-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TRL%2FSFTTrainer-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Fine--Tuning-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge" />
+</p>
 
 ---
 
