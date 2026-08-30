@@ -13,7 +13,7 @@ During my internship at **InfoSoft Davao**, I gained hands-on experience working
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="PASTE_YOUR_DIRECT_IMGUR_LINK_HERE" width="260" alt="Escanor"/>
+<img src="https://i.gifer.com/4j6o.gif" width="260" alt="Profile GIF"/>
 
 </td>
 </tr>
