@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,linux,railway,vercel,docker,github,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,linux,vercel,docker,github,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=railway&theme=light" />
 </p>
 
 ---
